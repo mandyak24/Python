@@ -5,9 +5,9 @@ def numeroEsPrimo(num):
        return print("El numero no es primo")
     for i in range(2,num):
         if (num%i)==0:
-            return print("El numero no es primo")
+            return print("El numero no es")
     return print("El numero es primo")
 
 
-numeroEsPrimo(10)
+numeroEsPrimo(2)
 
