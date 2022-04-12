@@ -1,4 +1,5 @@
 import random
+#RPS game
 
 def play():
     user=input("what's your choice? 'r' for rock, 'p' for paper, 's' for scissors\n")
