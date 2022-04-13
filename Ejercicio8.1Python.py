@@ -25,3 +25,4 @@ lista=[
 ]
 
 escribe('mifichero.txt',lista)
+#fin
